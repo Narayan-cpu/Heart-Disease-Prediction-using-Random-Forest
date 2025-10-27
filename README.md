@@ -41,6 +41,5 @@ This aligns with real-world cardiology findings — these factors are strongly c
 The **Random Forest model** is highly effective for predicting heart disease using standard clinical data.
 Its **accuracy (99%)** and **interpretability (feature importance)** make it a reliable decision-support tool for preliminary screening or assisting medical professionals.
 
-However:
+However: To deploy it in the real world, you’d need **cross-validation**, **larger diverse datasets**, and **explainability tools (like SHAP or LIME)** to ensure fairness and trust.
 
-* To deploy it in the real world, you’d need **cross-validation**, **larger diverse datasets**, and **explainability tools (like SHAP or LIME)** to ensure fairness and trust.
