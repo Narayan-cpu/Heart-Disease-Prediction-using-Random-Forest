@@ -44,5 +44,3 @@ Its **accuracy (99%)** and **interpretability (feature importance)** make it a r
 However:
 
 * To deploy it in the real world, you’d need **cross-validation**, **larger diverse datasets**, and **explainability tools (like SHAP or LIME)** to ensure fairness and trust.
-
-
